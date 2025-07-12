@@ -1,7 +1,7 @@
 # Alena Chernyshova
 ### Junior Frontend Developer
 ### Contact information:
-Phone: +381 621829128
+Phone: +381 621829129
 
 E-mail: alena1floww@gmail.com
 ### About Me
